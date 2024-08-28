@@ -1,0 +1,5 @@
+{
+  "Text2": ["fill", "text", "fontSize", "userEditable"],
+  "Image2": ["url", "userEditable"],
+  "Line2": ["x", "y", "width", "height", "userEditable"]
+}

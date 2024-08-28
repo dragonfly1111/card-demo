@@ -1,0 +1,264 @@
+{
+  "受控牌": [
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "标准、规程、规范标识",
+      "fontSize": 32,
+      "userEditable": false,
+      "x": 130,
+      "y": 90,
+      "editable": true
+    },
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "受控编号",
+      "fontSize": 32,
+      "userEditable": false,
+      "x": 40,
+      "y": 140,
+      "editable": true
+    },
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "双击填写受控编号",
+      "fontSize": 32,
+      "userEditable": true,
+      "x": 250,
+      "y": 140,
+      "editable": true
+    },
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "受控状态",
+      "fontSize": 32,
+      "userEditable": false,
+      "x": 40,
+      "y": 190,
+      "editable": true
+    },
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "双击填写受控状态",
+      "fontSize": 32,
+      "userEditable": true,
+      "x": 250,
+      "y": 190,
+      "editable": true
+    },
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "存放地点",
+      "fontSize": 32,
+      "userEditable": false,
+      "x": 40,
+      "y": 240,
+      "editable": true
+    },
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "双击填写存放地点",
+      "fontSize": 32,
+      "userEditable": true,
+      "x": 250,
+      "y": 240,
+      "editable": true
+    },
+    {
+      "tag": "Image",
+      "url": "/src/assets/logo.png",
+      "userEditable": false,
+      "x": 30,
+      "editable": true
+    },
+    {
+      "tag": "Line",
+      "x": 38,
+      "y": 138,
+      "width": 500,
+      "editable": true,
+      "stroke": "#000000",
+      "strokeWidth": 2
+    },
+    {
+      "tag": "Line",
+      "height": 0,
+      "userEditable": false,
+      "x": 38,
+      "y": 188,
+      "width": 500,
+      "editable": true,
+      "stroke": "#000000",
+      "strokeWidth": 2
+    },
+    {
+      "tag": "Line",
+      "height": 0,
+      "userEditable": false,
+      "x": 38,
+      "y": 238,
+      "width": 500,
+      "editable": true,
+      "stroke": "#000000",
+      "strokeWidth": 2
+    },
+    {
+      "tag": "Line",
+      "height": 0,
+      "userEditable": false,
+      "x": 38,
+      "y": 288,
+      "width": 500,
+      "editable": true,
+      "stroke": "#000000",
+      "strokeWidth": 2
+    },
+    {
+      "tag": "Line",
+      "height": 0,
+      "userEditable": false,
+      "x": 38,
+      "y": 137,
+      "width": 152,
+      "rotation": 90,
+      "editable": true,
+      "stroke": "#000000",
+      "strokeWidth": 2
+    },
+    {
+      "tag": "Line",
+      "height": 0,
+      "userEditable": false,
+      "x": 200,
+      "y": 137,
+      "width": 152,
+      "rotation": 90,
+      "editable": true,
+      "stroke": "#000000",
+      "strokeWidth": 2
+    },
+    {
+      "tag": "Line",
+      "height": 0,
+      "userEditable": false,
+      "x": 538,
+      "y": 137,
+      "width": 152,
+      "rotation": 90,
+      "editable": true,
+      "stroke": "#000000",
+      "strokeWidth": 2
+    }
+  ],
+  "测试牌": [
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "Vant4 适用于Vue3",
+      "fontSize": 32,
+      "test": 3333,
+      "x": 90.46484375,
+      "y": 33.80078125,
+      "editable": true
+    },
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "开发指南",
+      "fontSize": 32,
+      "x": 89.6328125,
+      "y": 97.33203125,
+      "editable": true
+    },
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "基础组件",
+      "fontSize": 32,
+      "x": 88.59375,
+      "y": 146.390625,
+      "editable": true
+    },
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "高级组件",
+      "fontSize": 32,
+      "x": 87.640625,
+      "y": 194.87109375,
+      "editable": true
+    },
+    {
+      "tag": "Text",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "text": "联系我们",
+      "fontSize": 32,
+      "x": 86.73046875,
+      "y": 240.79296875,
+      "editable": true
+    },
+    {
+      "tag": "Image",
+      "url": "https://fastly.jsdelivr.net/npm/@vant/assets/logo.png",
+      "x": 24.220799485960157,
+      "y": 11.161702262568426,
+      "width": 57.34560676404046,
+      "height": 83.54308899719726,
+      "editable": true
+    }
+  ]
+}
